@@ -3,7 +3,7 @@
 1.วิธีการ install python มีขั้นตอนทั้งหมด 6 ขั้นตอน
 
 ขั้นตอนที่ 1 ทำการ Download Python โดยการ Search คำว่า Miniconda ที่ Google 
-![test](.1.jpg)
+![test](1.png)
 *เลือก Version ตามการใช้งานของคอมพิวเตอร์ เเนะนำให้เลือก Python version 3.7 ใหม่ล่าสุด*
 
 ขั้นตอนที่ 2 ติดตั้ง Python version 3.7
