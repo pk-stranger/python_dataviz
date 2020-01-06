@@ -92,5 +92,17 @@
  ![test](.25.jpg)
  *ใช้คำสั่ง git status เพื่อดูว่าไฟล์งานไหนที่ยังไม่ได้เชื่อมกับ github บ้างหรือ ยังไม่ได้ sign กับ internet จะเเสดงให้เห็นเป็น สีเเดง*
 
- 
+ ![test](.26.jpg)
+ *จากนั้นใช้คำสั่ง git add ตามด้วยชื่อไฟล์ที่ยังไม่เชื่อมกับ github*
 
+
+ ![test](.27.jpg)
+ *ใช้คำสั่ง git commit -m "test git"*
+
+![test](.28.jpg)
+*ใช้คำสั่ง git config --global user.email "emailที่ใช้ในgithub" เเละ ใช้คำสั่ง git config --global user.name "ชื่อuserที่ใช้ใน github" เพื่อเข้าใช้งาน*
+
+![test](.29.jpg)
+*จากนั้นใช้คำสั่ง git push ตามด้วยใส่ Username เเละ Password ที่ใช้สมัคร Github*
+
+***...เป็นอันเสร็จเรียบร้อย***
